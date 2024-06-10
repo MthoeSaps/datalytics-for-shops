@@ -1,5 +1,8 @@
 streamlit 
+pandas
+openpyxl
+numpy
+plotly
+geopandas
 streamlit-extras
 streamlit-option-menu
-docx2txt
-PIL
